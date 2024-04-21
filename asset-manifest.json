@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/Book-It-Final/static/css/main.555dc721.css",
-    "main.js": "/Book-It-Final/static/js/main.c39b0737.js",
+    "main.js": "/Book-It-Final/static/js/main.9dd72d0c.js",
     "static/js/488.885f458f.chunk.js": "/Book-It-Final/static/js/488.885f458f.chunk.js",
+    "static/media/blank.png": "/Book-It-Final/static/media/blank.095de2657a3c6d22d251.png",
     "static/media/logo.png": "/Book-It-Final/static/media/logo.36329c35aff278d0eea4.png",
     "static/media/slick.svg": "/Book-It-Final/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Book-It-Final/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -10,11 +11,11 @@
     "static/media/slick.woff": "/Book-It-Final/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Book-It-Final/index.html",
     "main.555dc721.css.map": "/Book-It-Final/static/css/main.555dc721.css.map",
-    "main.c39b0737.js.map": "/Book-It-Final/static/js/main.c39b0737.js.map",
+    "main.9dd72d0c.js.map": "/Book-It-Final/static/js/main.9dd72d0c.js.map",
     "488.885f458f.chunk.js.map": "/Book-It-Final/static/js/488.885f458f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.555dc721.css",
-    "static/js/main.c39b0737.js"
+    "static/js/main.9dd72d0c.js"
   ]
 }

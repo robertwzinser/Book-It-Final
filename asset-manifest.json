@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Book-It-Final/static/css/main.555dc721.css",
-    "main.js": "/Book-It-Final/static/js/main.9541597f.js",
+    "main.js": "/Book-It-Final/static/js/main.d80a8734.js",
     "static/js/488.885f458f.chunk.js": "/Book-It-Final/static/js/488.885f458f.chunk.js",
     "static/media/logo.png": "/Book-It-Final/static/media/logo.36329c35aff278d0eea4.png",
     "static/media/slick.svg": "/Book-It-Final/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -10,11 +10,11 @@
     "static/media/slick.woff": "/Book-It-Final/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Book-It-Final/index.html",
     "main.555dc721.css.map": "/Book-It-Final/static/css/main.555dc721.css.map",
-    "main.9541597f.js.map": "/Book-It-Final/static/js/main.9541597f.js.map",
+    "main.d80a8734.js.map": "/Book-It-Final/static/js/main.d80a8734.js.map",
     "488.885f458f.chunk.js.map": "/Book-It-Final/static/js/488.885f458f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.555dc721.css",
-    "static/js/main.9541597f.js"
+    "static/js/main.d80a8734.js"
   ]
 }
